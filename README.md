@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raul Jacomelli</h1>
 <h3 align="center">Technology Student</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MongoDB, Express, React** and **Node**
 
 - 📫 How to reach me **jacomelliraul20@gmail.com**
 
