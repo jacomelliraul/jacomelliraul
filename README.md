@@ -1,4 +1,4 @@
-<img width="2500" height="1509" alt="image" src="https://github.com/user-attachments/assets/26501a76-cd48-45b3-b5f6-cd3ad3ff1364" /><h1 align="center">Hi 👋, I'm Raul Jacomelli</h1>
+<h1 align="center">Hi 👋, I'm Raul Jacomelli</h1>
 <h3 align="center">Technology Student</h3>
 
 - 🌱 I’m currently learning **MongoDB, Express, React** and **Node**
@@ -26,7 +26,6 @@
     <td>MySql</td>
     <td>Postgresql</td>
     <td>.NET</td>
-    <td>Git</td>
     <td>Next.js</td>
   </tr>
 </table>
