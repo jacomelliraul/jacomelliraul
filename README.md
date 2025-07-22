@@ -13,21 +13,21 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" /></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" /></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" /></td>
+    <td>C++</td>
+    <td>C#</td>
+    <td>Java</td>
+    <td>JavaScript</td>
+    <td>Python</td>
+    <td>Swift</td>
+    <td>React</td>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>Tailwindcss</td>
+    <td>MySql</td>
+    <td>Postgresql</td>
+    <td>.NET</td>
+    <td>Git</td>
+    <td>Next.js</td>
   </tr>
 </table>
 
